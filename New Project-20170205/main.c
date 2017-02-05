@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <complex.h>
 
+/*gcc -std=c99 -o main *.c -lm */
+
 int
 main(void)
 {
